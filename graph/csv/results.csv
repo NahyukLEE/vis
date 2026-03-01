@@ -1,0 +1,10 @@
+Dataset,Metric,RPF_Baseline,NT_Xent,Cos_dist,CKA
+PartNet,Part Accuracy,59.96,64.83,67.26,68.62
+Breaking Bad,Part Accuracy,92.2,92.6,95.6,95.6
+2by2,Part Accuracy,65.97,62.15,67.71,71.18
+PartNet,Rotation Error,46.15,44.08,42.02,41.18
+Breaking Bad,Rotation Error,17.72,18.15,9.42,8.96
+2by2,Rotation Error,12.56,15.48,11.24,9.01
+PartNet,Translation Error,37.4,35.5,33.6,33
+Breaking Bad,Translation Error,17.72,8.25,3.91,3.79
+2by2,Translation Error,16.65,22.39,14.48,13.07
